@@ -43,7 +43,6 @@ class MyApp(App):
         box.add_widget(self.miles)
         box.add_widget(self.metres)
         box.add_widget(self.santimetres)
-        print(1)
         return box
 
 
